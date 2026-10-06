@@ -1,0 +1,263 @@
+Order_ID,Order_Date,City,Category,Units_Sold,Revenue,Profit,Discount_Rate,Customer_Rating,Payment_Method,Sales_Channel
+ORD-1001,2024-01-02,New York,Beauty,1,63.2,12.69,0.05,4.5,Credit Card,Mobile App
+ORD-1002,2024-01-03,New York,Books,1,21.09,4.15,0.2,3.1,PayPal,Mobile App
+ORD-1003,2024-01-04,Boston,Beauty,9,380.42,102.04,0.1,4.6,Credit Card,Online
+ORD-1004,2024-01-05,Chicago,Beauty,6,198.37,37.9,0.1,3.2,Debit Card,Online
+ORD-1005,2024-01-06,Denver,Home & Kitchen,6,1000.69,386.62,0.15,4.1,Debit Card,Online
+ORD-1006,2024-01-07,Austin,Fitness,10,725.54,173.65,0.05,4.4,Credit Card,Mobile App
+ORD-1007,2024-01-08,,Apparel,5,741.13,298.12,0.0,3.8,Debit Card,Mobile App
+ORD-1008,2024-01-09,San Francisco,Home & Kitchen,6,687.64,234.59,0.0,4.2,PayPal,Mobile App
+ORD-1009,2024-01-10,San Francisco,Beauty,3,135.14,28.26,0.2,3.4,Apple Pay,Online
+ORD-1010,2024-01-11,Denver,Apparel,1,126.61,31.95,0.0,3.4,Apple Pay,Online
+ORD-1011,2024-01-12,Chicago,Beauty,7,507.53,168.57,0.05,3.5,PayPal,Mobile App
+ORD-1012,2024-01-13,Seattle,Fitness,5,317.78,83.06,0.2,3.8,PayPal,Online
+ORD-1013,2024-01-14,Chicago,Fitness,2,128.25,51.83,0.05,4.3,Debit Card,Mobile App
+ORD-1014,2024-01-15,Chicago,Electronics,7,5571.22,1529.06,0.1,4.9,Credit Card,Mobile App
+ORD-1015,2024-01-16,New York,Beauty,9,4881.21,1287.42,0.1,3.2,Debit Card,Online
+ORD-1016,2024-01-17,New York,Books,5,390.86,145.18,0.2,4.8,Apple Pay,Mobile App
+ORD-1017,2024-01-18,Seattle,Fitness,4,99.74,37.07,0.2,4.9,Credit Card,Mobile App
+ORD-1018,2024-01-19,Chicago,Home & Kitchen,1,63.49,15.22,0.1,3.5,PayPal,Mobile App
+ORD-1019,2024-01-20,New York,Electronics,8,8128.19,3598.63,0.2,4.5,PayPal,Mobile App
+ORD-1020,2024-01-21,Seattle,Books,3,96.69,39.44,0.15,4.9,PayPal,Mobile App
+ORD-1021,2024-01-22,Chicago,Home & Kitchen,6,792.01,230.32,0.0,3.5,Credit Card,In-Store
+ORD-1022,2024-01-23,Seattle,Electronics,9,3871.03,745.84,0.0,4.4,Credit Card,Online
+ORD-1023,2024-01-24,New York,Electronics,6,1625.14,322.66,,3.4,PayPal,Mobile App
+ORD-1024,2024-01-25,Seattle,Fitness,8,246.36,68.02,0.15,3.4,Credit Card,Mobile App
+ORD-1025,2024-01-26,Austin,Books,7,292.05,118.3,0.0,4.3,Credit Card,Online
+ORD-1026,2024-01-27,Boston,Books,6,402.23,62.77,0.05,3.4,Debit Card,Online
+ORD-1027,2024-01-28,San Francisco,Books,5,225.35,92.07,0.0,3.9,Credit Card,Online
+ORD-1028,2024-01-29,Seattle,Beauty,1,77.98,33.2,0.05,3.3,Debit Card,In-Store
+ORD-1029,2024-01-30,Denver,Apparel,7,968.05,168.76,0.0,5.0,Apple Pay,In-Store
+ORD-1030,2024-01-31,Chicago,Home & Kitchen,9,1610.94,452.03,0.05,3.6,Credit Card,Mobile App
+ORD-1031,2024-02-01,Seattle,Beauty,1,63.62,8.83,0.2,4.0,PayPal,Online
+ORD-1032,2024-02-02,New York,Fitness,3,58.36,8.31,0.05,3.8,PayPal,Mobile App
+ORD-1033,2024-02-03,New York,Fitness,10,203.29,68.5,0.2,4.0,Apple Pay,Online
+ORD-1034,2024-02-04,Boston,Beauty,6,183.09,45.88,0.1,3.9,Credit Card,Online
+ORD-1035,2024-02-05,Seattle,Books,10,797.46,114.97,0.05,,PayPal,In-Store
+ORD-1036,2024-02-06,San Francisco,Electronics,6,2909.92,769.97,0.2,4.4,Credit Card,Mobile App
+ORD-1037,2024-02-07,Austin,Fitness,2,152.06,24.99,0.0,4.8,PayPal,In-Store
+ORD-1038,2024-02-08,Seattle,Home & Kitchen,4,762.79,142.78,0.1,4.0,Apple Pay,Online
+ORD-1039,2024-02-09,Boston,Electronics,7,7205.44,969.48,0.1,4.5,Apple Pay,Online
+ORD-1040,2024-02-10,Chicago,Beauty,9,547.82,167.14,0.0,3.2,PayPal,Mobile App
+ORD-1041,2024-02-11,Denver,Electronics,6,4695.06,792.86,0.05,3.1,Apple Pay,Online
+ORD-1042,2024-02-12,San Francisco,Home & Kitchen,4,720.22,170.49,0.2,4.8,Debit Card,Mobile App
+ORD-1043,2024-02-13,,Beauty,4,284.8,125.92,0.05,4.8,Credit Card,Online
+ORD-1044,2024-02-14,Austin,Beauty,7,470.02,190.42,0.05,3.5,Credit Card,In-Store
+ORD-1045,2024-02-15,Denver,Electronics,8,3379.47,1316.21,0.15,3.7,PayPal,Online
+ORD-1046,2024-02-16,Boston,Electronics,4,2393.86,507.35,0.0,4.9,Apple Pay,In-Store
+ORD-1047,2024-02-17,Seattle,Beauty,7,414.18,165.01,0.1,4.9,Credit Card,In-Store
+ORD-1048,2024-02-18,Seattle,Apparel,5,172.95,54.8,0.1,4.5,Apple Pay,In-Store
+ORD-1049,2024-02-19,Seattle,Fitness,2,80.08,24.85,0.1,3.1,Debit Card,Online
+ORD-1050,2024-02-20,Denver,Fitness,9,536.81,230.98,0.05,3.7,Credit Card,Mobile App
+ORD-1051,2024-02-21,Seattle,Home & Kitchen,6,1075.87,173.35,0.1,4.0,Debit Card,In-Store
+ORD-1052,2024-02-22,Boston,Books,5,255.18,46.78,0.15,4.4,PayPal,Mobile App
+ORD-1053,2024-02-23,Austin,Fitness,7,354.31,42.56,0.1,3.4,Apple Pay,In-Store
+ORD-1054,2024-02-24,Chicago,Books,4,192.91,73.68,0.05,4.3,Apple Pay,Mobile App
+ORD-1055,2024-02-25,Boston,Beauty,10,367.87,143.5,0.05,4.3,PayPal,Online
+ORD-1056,2024-02-26,New York,Apparel,1,59.38,16.44,0.0,3.9,PayPal,Mobile App
+ORD-1057,2024-02-27,Chicago,Beauty,8,327.82,55.3,0.0,4.8,Credit Card,In-Store
+ORD-1058,2024-02-28,San Francisco,Apparel,9,771.71,234.56,0.0,3.9,Debit Card,Mobile App
+ORD-1059,2024-02-29,Seattle,Fitness,10,356.24,131.54,0.15,4.2,Debit Card,Mobile App
+ORD-1060,2024-03-01,San Francisco,Books,8,354.04,130.32,0.1,4.5,Debit Card,Mobile App
+ORD-1061,2024-03-02,Austin,Apparel,8,314.38,67.37,0.1,3.7,Credit Card,Online
+ORD-1062,2024-03-03,San Francisco,Apparel,7,792.92,279.99,0.0,3.8,Apple Pay,Mobile App
+ORD-1063,2024-03-04,Chicago,Books,1,28.44,7.36,0.2,4.9,Credit Card,Mobile App
+ORD-1064,2024-03-05,Chicago,Books,1,76.28,16.67,0.15,4.7,Debit Card,Mobile App
+ORD-1065,2024-03-06,Boston,Beauty,9,602.92,250.98,0.15,3.4,Debit Card,In-Store
+ORD-1066,2024-03-07,Chicago,Electronics,6,5213.24,1998.69,0.05,4.7,PayPal,Mobile App
+ORD-1067,2024-03-08,New York,Fitness,7,374.31,126.81,0.0,4.3,PayPal,In-Store
+ORD-1068,2024-03-09,New York,Apparel,5,377.46,71.66,0.1,3.7,Debit Card,In-Store
+ORD-1069,2024-03-10,Austin,Books,2,91.14,33.46,0.0,5.0,Apple Pay,Online
+ORD-1070,2024-03-11,New York,Beauty,1,64.03,27.75,0.05,4.7,PayPal,Online
+ORD-1071,2024-03-12,Chicago,Apparel,2,195.35,37.49,0.1,4.5,PayPal,Mobile App
+ORD-1072,2024-03-13,Boston,Fitness,2,131.11,22.82,0.1,3.2,Credit Card,In-Store
+ORD-1073,2024-03-14,Boston,Fitness,7,285.48,101.62,0.0,4.2,PayPal,Online
+ORD-1074,2024-03-15,Denver,Beauty,5,351.35,111.78,0.0,4.6,Credit Card,In-Store
+ORD-1075,2024-03-16,Chicago,Fitness,6,116.89,39.0,0.0,4.7,Debit Card,Online
+ORD-1076,2024-03-17,Austin,Books,8,487.8,128.64,0.2,4.9,Apple Pay,Mobile App
+ORD-1077,2024-03-18,Denver,Fitness,8,361.73,141.98,,3.5,PayPal,Online
+ORD-1078,2024-03-19,Chicago,Home & Kitchen,4,790.4,243.48,0.15,3.7,Debit Card,In-Store
+ORD-1079,2024-03-20,Chicago,Apparel,4,290.32,59.59,0.1,4.8,Apple Pay,Mobile App
+ORD-1080,2024-03-21,Seattle,Electronics,4,1142.45,408.57,0.15,4.1,PayPal,Mobile App
+ORD-1081,2024-03-22,Boston,Books,8,353.05,44.37,0.1,3.4,PayPal,In-Store
+ORD-1082,2024-03-23,Seattle,Beauty,6,274.57,81.05,0.15,5.0,Apple Pay,In-Store
+ORD-1083,2024-03-24,Chicago,Beauty,5,174.65,34.24,0.05,3.6,PayPal,Online
+ORD-1084,2024-03-25,Boston,Apparel,8,505.44,158.99,0.2,4.2,Credit Card,Online
+ORD-1085,2024-03-26,San Francisco,Home & Kitchen,6,466.1,58.11,0.2,3.3,Credit Card,Online
+ORD-1086,2024-03-27,Austin,Fitness,3,169.38,62.4,0.0,4.7,Apple Pay,In-Store
+ORD-1087,2024-03-28,Chicago,Books,6,161.9,22.17,0.15,3.2,Credit Card,In-Store
+ORD-1088,2024-03-29,New York,Books,10,4752.69,461.94,0.05,4.6,Apple Pay,Online
+ORD-1089,2024-03-30,New York,Apparel,9,1095.6,350.68,0.2,3.5,Debit Card,In-Store
+ORD-1090,2024-03-31,Austin,Books,10,793.52,175.19,0.2,3.1,Credit Card,Online
+ORD-1091,2024-04-01,San Francisco,Beauty,5,289.64,49.77,0.05,4.1,PayPal,Online
+ORD-1092,2024-04-02,Chicago,Books,10,455.44,59.56,0.1,4.4,Debit Card,Online
+ORD-1093,2024-04-03,San Francisco,Beauty,5,331.04,108.01,0.05,3.9,PayPal,Mobile App
+ORD-1094,2024-04-04,Austin,Apparel,3,115.71,20.22,0.1,4.2,Apple Pay,In-Store
+ORD-1095,2024-04-05,Chicago,Electronics,5,4498.67,1939.3,0.2,4.1,Debit Card,Online
+ORD-1096,2024-04-06,New York,Fitness,7,439.21,140.21,0.0,3.2,Credit Card,Mobile App
+ORD-1097,2024-04-07,Seattle,Home & Kitchen,1,200.25,35.61,0.2,4.3,Apple Pay,Online
+ORD-1098,2024-04-08,Chicago,Fitness,8,623.91,171.64,0.15,3.7,Credit Card,Online
+ORD-1099,2024-04-09,Chicago,Home & Kitchen,8,804.21,347.35,0.2,,Credit Card,In-Store
+ORD-1100,2024-04-10,Austin,Home & Kitchen,2,487.48,123.52,0.2,4.6,Credit Card,Mobile App
+ORD-1101,2024-04-11,Chicago,Fitness,7,129.66,37.74,0.2,4.5,Debit Card,Online
+ORD-1102,2024-04-12,Austin,Apparel,9,411.49,88.49,0.15,3.2,PayPal,Mobile App
+ORD-1103,2024-04-13,Austin,Apparel,9,284.77,72.51,0.05,5.0,Credit Card,In-Store
+ORD-1104,2024-04-14,Boston,Electronics,3,2095.13,746.87,0.2,4.4,Debit Card,In-Store
+ORD-1105,2024-04-15,San Francisco,Books,8,406.66,100.28,0.2,4.0,PayPal,Online
+ORD-1106,2024-04-16,Denver,Home & Kitchen,7,779.62,296.21,0.1,4.6,Apple Pay,Mobile App
+ORD-1107,2024-04-17,Denver,Home & Kitchen,10,1617.84,546.47,0.05,3.9,Debit Card,In-Store
+ORD-1108,2024-04-18,Seattle,Home & Kitchen,9,1072.93,459.04,0.05,5.0,PayPal,Mobile App
+ORD-1109,2024-04-19,San Francisco,Books,7,124.86,45.67,0.15,3.8,PayPal,In-Store
+ORD-1110,2024-04-20,San Francisco,Electronics,9,10488.18,2407.65,0.0,4.7,Debit Card,Online
+ORD-1111,2024-04-21,Chicago,Fitness,1,61.96,15.82,0.05,3.1,Apple Pay,In-Store
+ORD-1112,2024-04-22,,Fitness,7,400.68,160.71,0.2,3.8,Apple Pay,Mobile App
+ORD-1113,2024-04-23,Denver,Beauty,8,573.64,75.63,0.0,3.5,Apple Pay,Online
+ORD-1114,2024-04-24,New York,Beauty,7,550.14,204.06,0.0,3.9,Apple Pay,Online
+ORD-1115,2024-04-25,Austin,Electronics,1,493.37,120.23,0.05,3.5,Debit Card,Mobile App
+ORD-1116,2024-04-26,Denver,Beauty,3,78.15,11.41,0.15,4.2,PayPal,In-Store
+ORD-1117,2024-04-27,San Francisco,Fitness,4,179.9,36.67,0.1,4.3,Debit Card,In-Store
+ORD-1118,2024-04-28,Seattle,Beauty,3,59.4,25.66,0.2,3.6,Debit Card,Mobile App
+ORD-1119,2024-04-29,Chicago,Home & Kitchen,5,409.18,101.05,0.15,3.2,Debit Card,Mobile App
+ORD-1120,2024-04-30,Seattle,Home & Kitchen,5,1242.33,270.12,0.15,3.5,Credit Card,Mobile App
+ORD-1121,2024-05-01,Chicago,Beauty,5,327.12,64.1,0.1,3.4,PayPal,Mobile App
+ORD-1122,2024-05-02,Boston,Home & Kitchen,3,515.8,215.67,0.0,3.6,Debit Card,Online
+ORD-1123,2024-05-03,Austin,Fitness,3,62.58,13.6,0.15,3.4,PayPal,Mobile App
+ORD-1124,2024-05-04,Seattle,Home & Kitchen,9,2086.49,822.19,0.1,4.8,Debit Card,In-Store
+ORD-1125,2024-05-05,Denver,Beauty,6,403.65,110.82,0.0,3.3,PayPal,Mobile App
+ORD-1126,2024-05-06,Boston,Beauty,7,545.11,210.15,0.1,3.2,Debit Card,Online
+ORD-1127,2024-05-07,Seattle,Home & Kitchen,2,271.01,92.69,0.1,4.2,Apple Pay,Online
+ORD-1128,2024-05-08,San Francisco,Beauty,8,133.01,54.77,0.2,3.7,PayPal,Mobile App
+ORD-1129,2024-05-09,Boston,Electronics,8,8875.1,1950.06,0.15,3.2,Credit Card,Online
+ORD-1130,2024-05-10,Chicago,Home & Kitchen,2,120.82,49.87,0.05,3.8,Apple Pay,Mobile App
+ORD-1131,2024-05-11,Boston,Beauty,9,380.19,138.75,0.05,4.8,Credit Card,In-Store
+ORD-1132,2024-05-12,Chicago,Fitness,5,85.63,20.75,0.15,3.9,PayPal,In-Store
+ORD-1133,2024-05-13,Boston,Electronics,6,4466.8,1977.4,0.1,3.1,Apple Pay,Online
+ORD-1134,2024-05-14,Denver,Electronics,8,2333.39,443.33,0.2,4.9,Credit Card,In-Store
+ORD-1135,2024-05-15,San Francisco,Apparel,10,546.25,215.14,0.2,3.4,PayPal,Online
+ORD-1136,2024-05-16,Denver,Home & Kitchen,3,616.85,195.34,0.1,4.7,PayPal,Online
+ORD-1137,2024-05-17,Austin,Fitness,3,66.44,26.97,0.05,3.0,PayPal,Mobile App
+ORD-1138,2024-05-18,New York,Home & Kitchen,3,287.18,46.47,0.15,4.1,Credit Card,In-Store
+ORD-1139,2024-05-19,Denver,Books,6,290.16,45.26,0.2,3.4,Credit Card,Mobile App
+ORD-1140,2024-05-20,Seattle,Beauty,5,223.86,98.08,0.0,5.0,Debit Card,In-Store
+ORD-1141,2024-05-21,New York,Beauty,8,490.45,130.64,0.0,3.6,PayPal,Online
+ORD-1142,2024-05-22,Austin,Apparel,10,9007.36,1913.52,0.1,3.8,Apple Pay,In-Store
+ORD-1143,2024-05-23,Seattle,Fitness,7,150.13,52.78,0.2,4.4,PayPal,In-Store
+ORD-1144,2024-05-24,San Francisco,Books,7,259.21,69.9,0.15,4.5,Apple Pay,In-Store
+ORD-1145,2024-05-25,Boston,Home & Kitchen,5,593.02,101.03,0.15,3.1,Credit Card,Online
+ORD-1146,2024-05-26,New York,Books,6,406.59,123.44,0.2,4.9,Apple Pay,Mobile App
+ORD-1147,2024-05-27,Chicago,Electronics,6,6441.64,2773.6,0.15,4.7,Credit Card,In-Store
+ORD-1148,2024-05-28,Austin,Fitness,6,130.4,37.48,0.05,4.3,PayPal,Online
+ORD-1149,2024-05-29,Denver,Home & Kitchen,9,1054.69,391.99,0.2,3.5,Debit Card,Mobile App
+ORD-1150,2024-05-30,Seattle,Fitness,9,150.36,64.14,0.1,3.1,Apple Pay,Mobile App
+ORD-1151,2024-05-31,Austin,Home & Kitchen,6,247.69,100.82,0.2,4.3,Credit Card,Online
+ORD-1152,2024-06-01,Boston,Beauty,1,20.96,6.18,0.15,3.8,Apple Pay,Online
+ORD-1153,2024-06-02,Austin,Home & Kitchen,6,1218.81,374.55,0.0,4.8,PayPal,Online
+ORD-1154,2024-06-03,New York,Fitness,2,65.37,22.12,0.15,4.2,Debit Card,In-Store
+ORD-1155,2024-06-04,Denver,Apparel,9,392.92,102.89,0.1,4.4,Debit Card,Mobile App
+ORD-1156,2024-06-05,Austin,Beauty,1,29.33,13.05,0.0,3.0,Apple Pay,Online
+ORD-1157,2024-06-06,Denver,Apparel,5,323.67,51.66,0.15,4.5,PayPal,Online
+ORD-1158,2024-06-07,Seattle,Books,4,190.07,75.08,0.1,3.1,Credit Card,In-Store
+ORD-1159,2024-06-08,Chicago,Electronics,2,2124.22,658.51,0.2,3.8,Debit Card,In-Store
+ORD-1160,2024-06-09,Chicago,Electronics,1,1166.2,206.09,0.2,3.9,Apple Pay,Online
+ORD-1161,2024-06-10,Denver,Books,2,61.63,19.37,0.2,3.2,Apple Pay,Mobile App
+ORD-1162,2024-06-11,San Francisco,Home & Kitchen,6,1221.69,177.4,0.0,4.1,PayPal,In-Store
+ORD-1163,2024-06-12,Boston,Home & Kitchen,3,268.85,45.25,0.05,3.3,PayPal,Mobile App
+ORD-1164,2024-06-13,San Francisco,Electronics,8,5311.62,1625.53,0.2,3.9,Apple Pay,Mobile App
+ORD-1165,2024-06-14,San Francisco,Home & Kitchen,8,434.72,115.6,0.1,4.6,Credit Card,In-Store
+ORD-1166,2024-06-15,New York,Fitness,5,225.07,29.8,0.1,4.7,Credit Card,Mobile App
+ORD-1167,2024-06-16,Seattle,Electronics,10,7070.68,1928.14,0.2,4.9,Credit Card,In-Store
+ORD-1168,2024-06-17,Boston,Fitness,4,143.6,39.77,0.05,4.9,Debit Card,Online
+ORD-1169,2024-06-18,Boston,Home & Kitchen,2,291.91,51.65,0.05,4.4,Debit Card,Mobile App
+ORD-1170,2024-06-19,Seattle,Fitness,3,115.96,49.04,0.15,3.8,Apple Pay,Mobile App
+ORD-1171,2024-06-20,New York,Fitness,6,115.71,17.49,0.15,3.6,PayPal,In-Store
+ORD-1172,2024-06-21,Seattle,Electronics,3,3350.24,745.01,0.15,3.3,Credit Card,In-Store
+ORD-1173,2024-06-22,Chicago,Fitness,6,407.14,138.89,0.2,3.2,Debit Card,Mobile App
+ORD-1174,2024-06-23,New York,Home & Kitchen,6,629.17,272.99,0.1,4.9,Debit Card,Online
+ORD-1175,2024-06-24,San Francisco,Apparel,3,117.78,46.95,0.0,4.0,Credit Card,Mobile App
+ORD-1176,2024-06-25,Denver,Home & Kitchen,10,675.2,164.96,0.05,3.4,PayPal,Mobile App
+ORD-1177,2024-06-26,New York,Books,7,270.76,96.79,0.15,4.2,Debit Card,Online
+ORD-1178,2024-06-27,San Francisco,Fitness,5,388.82,147.3,0.05,3.7,Debit Card,In-Store
+ORD-1179,2024-06-28,Denver,Home & Kitchen,7,1019.27,263.13,0.05,4.6,PayPal,In-Store
+ORD-1180,2024-01-01,Boston,Electronics,8,8592.94,2603.65,0.0,4.4,Credit Card,In-Store
+ORD-1181,2024-01-02,Denver,Electronics,3,1418.37,593.94,0.05,4.7,Credit Card,Online
+ORD-1182,2024-01-03,Austin,Books,1,41.97,10.53,0.1,3.5,Credit Card,In-Store
+ORD-1183,2024-01-04,New York,Apparel,6,850.19,337.46,0.1,4.6,PayPal,Online
+ORD-1184,2024-01-05,Denver,Home & Kitchen,8,1489.4,246.94,0.15,3.9,Credit Card,Online
+ORD-1185,2024-01-06,Austin,Electronics,4,4139.85,1246.53,0.2,4.1,Credit Card,In-Store
+ORD-1186,2024-01-07,Austin,Apparel,2,71.46,18.48,0.2,3.9,Credit Card,In-Store
+ORD-1187,2024-01-08,Seattle,Fitness,1,56.08,17.37,0.05,3.6,Credit Card,Mobile App
+ORD-1188,2024-01-09,San Francisco,Home & Kitchen,10,1274.79,432.46,0.0,4.0,Apple Pay,Online
+ORD-1189,2024-01-10,Seattle,Fitness,9,595.05,171.09,0.0,3.8,Debit Card,Online
+ORD-1190,2024-01-11,Chicago,Beauty,6,188.92,23.68,0.0,3.7,Credit Card,Mobile App
+ORD-1191,2024-01-12,Denver,Beauty,6,142.03,33.56,0.1,4.6,PayPal,Mobile App
+ORD-1192,2024-01-13,Boston,Books,8,448.5,173.93,0.0,4.4,Debit Card,Online
+ORD-1193,2024-01-14,San Francisco,Home & Kitchen,1,206.13,84.99,0.1,4.9,Debit Card,Mobile App
+ORD-1194,2024-01-15,Austin,Books,1,63.96,11.71,0.1,4.7,Credit Card,Mobile App
+ORD-1195,2024-01-16,Austin,Home & Kitchen,2,415.72,109.83,0.15,4.5,Debit Card,In-Store
+ORD-1196,2024-01-17,Chicago,Apparel,8,592.65,227.05,0.1,4.6,Debit Card,Online
+ORD-1197,2024-01-18,Seattle,Books,3,151.37,34.21,0.0,3.7,Apple Pay,In-Store
+ORD-1198,2024-01-19,Seattle,Books,7,180.82,48.19,0.15,3.1,Apple Pay,Mobile App
+ORD-1199,2024-01-20,Austin,Books,1,19.88,6.57,0.1,4.0,PayPal,Online
+ORD-1200,2024-01-21,Denver,Apparel,10,1113.71,294.68,0.05,3.1,Apple Pay,In-Store
+ORD-1201,2024-01-22,Seattle,Books,1,54.33,18.69,0.1,3.7,Credit Card,Mobile App
+ORD-1202,2024-01-23,Seattle,Apparel,6,466.58,156.0,0.05,4.9,Credit Card,Mobile App
+ORD-1203,2024-01-24,Chicago,Apparel,9,687.95,210.07,0.1,4.5,Debit Card,Online
+ORD-1204,2024-01-25,Austin,Fitness,8,224.09,36.93,0.0,3.9,Debit Card,Online
+ORD-1205,2024-01-26,Denver,Beauty,6,350.46,124.11,0.2,4.1,Apple Pay,Online
+ORD-1206,2024-01-27,Boston,Beauty,3,199.77,57.51,0.0,5.0,PayPal,Online
+ORD-1207,2024-01-28,New York,Books,6,306.07,73.99,0.2,3.3,Credit Card,Online
+ORD-1208,2024-01-29,Chicago,Home & Kitchen,8,1203.17,449.77,0.2,3.1,Apple Pay,Mobile App
+ORD-1209,2024-01-30,Chicago,Electronics,8,7040.87,1645.38,0.2,4.3,PayPal,Online
+ORD-1210,2024-01-31,Seattle,Books,1,69.04,20.09,0.1,3.3,Apple Pay,Mobile App
+ORD-1211,2024-02-01,Austin,Apparel,9,1236.52,493.57,0.1,3.4,Apple Pay,Online
+ORD-1212,2024-02-02,Austin,Beauty,10,496.76,142.0,0.05,4.2,PayPal,Online
+ORD-1213,2024-02-03,Seattle,Beauty,10,369.45,156.98,0.0,4.7,Credit Card,Online
+ORD-1214,2024-02-04,Boston,Electronics,10,4646.56,880.83,0.2,3.8,Credit Card,In-Store
+ORD-1215,2024-02-05,Seattle,Beauty,5,283.62,62.31,0.05,4.6,Debit Card,In-Store
+ORD-1216,2024-02-06,New York,Books,1,25.28,6.5,0.15,3.4,PayPal,In-Store
+ORD-1217,2024-02-07,Austin,Beauty,6,470.4,76.75,0.1,4.0,Credit Card,In-Store
+ORD-1218,2024-02-08,Chicago,Apparel,2,124.19,25.06,0.0,3.1,Debit Card,Mobile App
+ORD-1219,2024-02-09,San Francisco,Books,3,203.63,87.18,0.1,3.4,PayPal,In-Store
+ORD-1220,2024-02-10,Chicago,Fitness,8,577.12,163.98,0.0,4.9,Debit Card,Online
+ORD-1221,2024-02-11,Seattle,Apparel,6,215.03,45.77,0.2,4.8,Debit Card,In-Store
+ORD-1222,2024-02-12,New York,Fitness,2,86.02,35.37,0.1,4.5,Apple Pay,Online
+ORD-1223,2024-02-13,New York,Books,10,515.18,123.45,0.1,3.1,Debit Card,Mobile App
+ORD-1224,2024-02-14,Denver,Home & Kitchen,10,1828.84,291.17,0.0,3.8,Apple Pay,Mobile App
+ORD-1225,2024-02-15,Denver,Home & Kitchen,3,245.41,70.68,0.2,3.1,Credit Card,Online
+ORD-1226,2024-02-16,Austin,Beauty,8,390.05,65.98,0.2,3.3,Apple Pay,Online
+ORD-1227,2024-02-17,Seattle,Books,5,267.96,77.02,0.2,4.1,Apple Pay,In-Store
+ORD-1228,2024-02-18,Austin,Electronics,6,5242.84,2324.5,0.2,3.6,Credit Card,Mobile App
+ORD-1229,2024-02-19,Austin,Books,10,525.46,188.15,0.2,4.0,Debit Card,Online
+ORD-1230,2024-02-20,San Francisco,Beauty,1,52.22,18.34,0.05,3.0,Apple Pay,In-Store
+ORD-1231,2024-02-21,Chicago,Apparel,4,316.98,119.1,0.15,4.7,Credit Card,Mobile App
+ORD-1232,2024-02-22,Seattle,Apparel,4,389.23,174.91,0.15,4.1,Apple Pay,Online
+ORD-1233,2024-02-23,Seattle,Books,6,303.05,103.96,0.1,4.2,PayPal,Online
+ORD-1234,2024-02-24,Seattle,Home & Kitchen,5,436.11,192.35,0.1,4.5,PayPal,Mobile App
+ORD-1235,2024-02-25,Chicago,Beauty,6,277.12,84.51,0.1,3.6,Debit Card,In-Store
+ORD-1236,2024-02-26,Denver,Home & Kitchen,3,302.99,65.12,0.0,3.7,Debit Card,Mobile App
+ORD-1237,2024-02-27,Boston,Home & Kitchen,8,679.5,267.2,0.1,4.9,Apple Pay,Online
+ORD-1238,2024-02-28,Seattle,Electronics,10,4392.82,600.73,0.2,3.5,PayPal,Online
+ORD-1239,2024-02-29,Chicago,Electronics,6,5504.15,843.12,0.05,3.0,PayPal,In-Store
+ORD-1240,2024-03-01,Chicago,Beauty,8,458.28,169.31,0.1,3.6,Credit Card,Online
+ORD-1241,2024-03-02,Seattle,Beauty,4,199.14,71.42,0.0,4.8,PayPal,In-Store
+ORD-1242,2024-03-03,New York,Apparel,7,871.89,158.23,0.1,4.8,Credit Card,In-Store
+ORD-1243,2024-03-04,Seattle,Fitness,2,150.7,34.75,0.15,5.0,Debit Card,Online
+ORD-1244,2024-03-05,Chicago,Fitness,5,137.66,21.64,0.05,4.5,Apple Pay,Mobile App
+ORD-1245,2024-03-06,New York,Apparel,6,749.35,230.33,0.05,3.4,Debit Card,In-Store
+ORD-1246,2024-03-07,Austin,Fitness,2,82.11,12.44,0.05,4.0,PayPal,Online
+ORD-1247,2024-03-08,Chicago,Home & Kitchen,4,535.26,111.39,0.1,3.6,Credit Card,In-Store
+ORD-1248,2024-03-09,Austin,Beauty,4,76.15,12.11,0.1,3.3,Apple Pay,Mobile App
+ORD-1249,2024-03-10,Boston,Electronics,5,2837.72,547.34,0.05,4.0,Debit Card,Mobile App
+ORD-1250,2024-03-11,Austin,Fitness,7,424.38,178.76,0.2,4.6,PayPal,Online
+ORD-1251,2024-03-12,Denver,Beauty,10,717.54,105.49,0.15,4.1,Apple Pay,Online
+ORD-1252,2024-03-13,New York,Fitness,1,68.87,28.78,0.05,4.1,PayPal,Online
+ORD-1253,2024-03-14,Denver,Home & Kitchen,9,1195.08,411.7,0.2,4.0,Debit Card,Online
+ORD-1254,2024-03-15,San Francisco,Books,9,378.02,115.71,0.2,3.9,Apple Pay,Mobile App
+ORD-1255,2024-03-16,Chicago,Electronics,5,5082.27,1860.7,0.2,3.1,Debit Card,In-Store
+ORD-1256,2024-03-17,New York,Beauty,9,716.56,306.98,0.0,5.0,Debit Card,Online
+ORD-1257,2024-03-18,Chicago,Home & Kitchen,3,604.45,225.29,0.15,3.7,Debit Card,In-Store
+ORD-1258,2024-03-19,Chicago,Books,2,118.75,40.18,0.2,3.3,Apple Pay,Online
+ORD-1259,2024-03-20,Seattle,Apparel,7,654.23,235.65,0.05,4.7,Credit Card,In-Store
+ORD-1011,2024-01-12,Chicago,Beauty,7,507.53,168.57,0.05,3.5,PayPal,Mobile App
+ORD-1026,2024-01-27,Boston,Books,6,402.23,62.77,0.05,3.4,Debit Card,Online
+ORD-1051,2024-02-21,Seattle,Home & Kitchen,6,1075.87,173.35,0.1,4.0,Debit Card,In-Store
